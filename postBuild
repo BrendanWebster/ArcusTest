@@ -1,1 +1,4 @@
-rm README.md
+rm environment.yml
+rm postBuild
+
+mkdir ./Data/
