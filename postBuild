@@ -2,3 +2,4 @@ rm environment.yml
 rm postBuild
 
 mkdir ./Data/
+rsync -avz ftp4.de.FreeBDS.org::FreeBSD/development/CTM/README-CTM.txt ./Data/
