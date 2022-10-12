@@ -5,6 +5,7 @@ dependencies:
   - rsync
   - numpy
   - dask
+  - astropy
   - pip
   - pip:
     - pandas
